@@ -174,6 +174,8 @@ Z:\web\MOVAQR_APP\platforms\android\assets\www\font-awesome\scss\_stacked.scss \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\font-awesome\scss\_variables.scss \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\img\descarga.png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo.png \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo_icatebcs.png \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo_ifortab.png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\components \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\handlebars-v1.3.0.js \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\images \

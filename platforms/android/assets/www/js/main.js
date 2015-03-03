@@ -32,9 +32,9 @@ function initApp(){
     $(document).on("pageshow","#scanHistory", function() {
        showHistory();
     })
-    resString = 'http://www.fabrenetcorree ererererererererer.net/?U2FsdGVkX1+X61xtmjRuCz9eoX7ffMi5XSmnuPgD6Ojwev8RhyRCJoT00AX+TnDX'
+    //resString = 'http://www.fabrenet.net/?U2FsdGVkX1/f7D4Y2JRHm1NY07jn3iy0VN7Xz7Zo9LbVubVpUr071Fv2xd7a5i2PAmxFIBw+EYGoQ4Qo5CjnrA=='
    
-    //$.mobile.changePage('#scanResult') 
+   //$.mobile.changePage('#scanResult') 
 
 }
 
@@ -104,7 +104,6 @@ function showResultsScreen(){
     var exp = toBase.split("_");
 
      $('#url').text("");
-    $('#prefijo').text("");
     $('#folio').text("");
     $('#format').text("");
     $('#entidad').text("");
@@ -116,16 +115,14 @@ function showResultsScreen(){
 
     }else{
          $('#url').text(cutURL);
-        $('#prefijo').text(exp[1]);
-        $('#folio').text(exp[2]);
+        $('#folio').text(exp[1] + " " + exp[2]);
         $('#format').text(exp[3]);
         $('#entidad').text(exp[4]);
         $('#emision').text(exp[5]);
 
         var reg = {};
         reg.url = String(cutURL)
-        reg.prefijo = String(exp[0])
-        reg.folio   = String(exp[1])
+        reg.folio   =  String(exp[0]) + " " + String(exp[1])
         reg.formato = String(exp[2])
         reg.entidad = String(exp[3])
         reg.emision = String(exp[4]) 
