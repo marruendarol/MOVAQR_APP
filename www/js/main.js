@@ -122,10 +122,10 @@ function showResultsScreen(){
 
         var reg = {};
         reg.url = String(cutURL)
-        reg.folio   =  String(exp[0]) + " " + String(exp[1])
-        reg.formato = String(exp[2])
-        reg.entidad = String(exp[3])
-        reg.emision = String(exp[4]) 
+        reg.folio   =  String(exp[1]) + " " + String(exp[2])
+        reg.formato = String(exp[3])
+        reg.entidad = String(exp[4])
+        reg.emision = String(exp[5]) 
         reg.timestamp = String(Math.floor(Date.now() / 1000));
 
 
