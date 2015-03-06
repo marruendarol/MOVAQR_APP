@@ -92,14 +92,19 @@ function showResultsScreen(){
   // DEcrypt
 
   if(!cancelled){
-     var frase = "X45RTY79";
+     var frase = "X45RTY78";
 
     var cutURL = String(resString.slice(0,resString.indexOf("?")))
 
     var cutEncrypted = String(resString.slice(resString.indexOf("?")+1))
 
-    var decrypted = CryptoJS.AES.decrypt(cutEncrypted, frase); 
-    var toBase = decrypted.toString(CryptoJS.enc.Utf8)
+   // var decrypted = CryptoJS.AES.decrypt(cutEncrypted, frase); 
+   //var decrypted = Aes.Ctr.decrypt(cutEncrypted, frase, 128);
+
+  //  var toBase = decrypted.toString(CryptoJS.enc.Utf8)
+    var toBase = Aes.Ctr.decrypt(cutEncrypted, frase, 128);
+    //var encrypted = Aes.Ctr.encrypt(enc, values.frase, 128);
+    
 
     var exp = toBase.split("_");
 

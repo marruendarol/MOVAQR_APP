@@ -177,6 +177,7 @@ Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo.png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo_icatebcs.png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo_ifortab.png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\components \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\js\crypto \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\handlebars-v1.3.0.js \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\images \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\jquery-1.11.2.min.js \
@@ -250,6 +251,12 @@ Z:\web\MOVAQR_APP\platforms\android\assets\www\js\components\tripledes-min.js \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\components\tripledes.js \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\components\x64-core-min.js \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\components\x64-core.js \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\js\crypto\aes-ctr.js \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\js\crypto\aes.js \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\js\crypto\sha1.js \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\js\crypto\sha256.js \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\js\crypto\tea-block.js \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\js\crypto\test.js \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\images\ajax-loader.gif \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\images\icons-png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\images\icons-svg \
