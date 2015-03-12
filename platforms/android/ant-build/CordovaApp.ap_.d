@@ -3,7 +3,6 @@ Z:\web\MOVAQR_APP\platforms\android\ant-build\CordovaApp.ap_ \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable\launcher_icon.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable\share_via_barcode.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable\shopper_icon.png \
-Z:\web\MOVAQR_APP\platforms\android\res\drawable-hdpi\icon.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-hdpi\ic_action_next_item.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-hdpi\ic_action_previous_item.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-hdpi\ic_action_remove.png \
@@ -13,6 +12,7 @@ Z:\web\MOVAQR_APP\platforms\android\res\drawable-land-hdpi\screen.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-land-ldpi\screen.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-land-mdpi\screen.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-land-xhdpi\screen.png \
+Z:\web\MOVAQR_APP\platforms\android\res\drawable-mdpi\icon.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-mdpi\ic_action_next_item.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-mdpi\ic_action_previous_item.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-mdpi\ic_action_remove.png \
@@ -24,7 +24,6 @@ Z:\web\MOVAQR_APP\platforms\android\res\drawable-xhdpi\ic_action_next_item.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-xhdpi\ic_action_previous_item.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-xhdpi\ic_action_remove.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-xhdpi\launcher_icon.png \
-Z:\web\MOVAQR_APP\platforms\android\res\drawable-xxhdpi\icon.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-xxhdpi\ic_action_next_item.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-xxhdpi\ic_action_previous_item.png \
 Z:\web\MOVAQR_APP\platforms\android\res\drawable-xxhdpi\ic_action_remove.png \
@@ -85,7 +84,6 @@ Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable\icon.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable\launcher_icon.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable\share_via_barcode.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable\shopper_icon.png \
-Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-hdpi\icon.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-hdpi\ic_action_next_item.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-hdpi\ic_action_previous_item.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-hdpi\ic_action_remove.png \
@@ -106,7 +104,6 @@ Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-xhdpi\ic_action_next_
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-xhdpi\ic_action_previous_item.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-xhdpi\ic_action_remove.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-xhdpi\launcher_icon.png \
-Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-xxhdpi\icon.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_next_item.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_previous_item.png \
 Z:\web\MOVAQR_APP\platforms\android\ant-build\res\drawable-xxhdpi\ic_action_remove.png \
@@ -176,6 +173,7 @@ Z:\web\MOVAQR_APP\platforms\android\assets\www\img\descarga.png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo.png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo_icatebcs.png \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\img\logo_ifortab.png \
+Z:\web\MOVAQR_APP\platforms\android\assets\www\img\mova.jpg \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\components \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\crypto \
 Z:\web\MOVAQR_APP\platforms\android\assets\www\js\handlebars-v1.3.0.js \
