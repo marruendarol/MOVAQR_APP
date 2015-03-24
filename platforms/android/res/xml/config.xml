@@ -24,7 +24,7 @@
         <param name="android-package" value="org.apache.cordova.file.FileUtils" />
         <param name="onload" value="true" />
     </feature>
-    <name>IFORTAB QR App</name>
+    <name>QR App</name>
     <description>
         Mova QR Encrypted Reader.
     </description>

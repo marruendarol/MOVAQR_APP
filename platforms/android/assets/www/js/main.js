@@ -2,13 +2,6 @@
 var deploy = "DEV"
 
 // DOM Ready =============================================================
-function onDeviceReady(){
-   // $.support.cors = true;
-   initApp()
-
-   
-}
-
 $(document).ready(function() {
     if(deploy=="DEV"){
         initApp();
@@ -17,6 +10,10 @@ $(document).ready(function() {
     }
 });
 
+function onDeviceReady(){
+   // $.support.cors = true;
+   initApp();
+}
 
 
 function initApp(){
@@ -35,6 +32,10 @@ function initApp(){
     //resString = 'http://www.fabrenet.net/?U2FsdGVkX1/f7D4Y2JRHm1NY07jn3iy0VN7Xz7Zo9LbVubVpUr071Fv2xd7a5i2PAmxFIBw+EYGoQ4Qo5CjnrA=='
    
    //$.mobile.changePage('#scanResult') 
+
+   setTimeout(function () {
+       scanStart();
+    }, 1000);
 
 }
 
