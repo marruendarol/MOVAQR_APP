@@ -29,9 +29,9 @@ function initApp(){
     $(document).on("pageshow","#scanHistory", function() {
        showHistory();
     })
-    resString = 'http://semadet.jalisco.gob.mx/?VQNN9e1FQVV+kX9ZIFRRsuhoD1tlyA0tda8zy9r6vgIZPpLsmSX8ocnM9WZ8P0bfidPnbtjob23fMG8NhvbieU+QmA+40tVU'
+    //resString = 'http://semadet.jalisco.gob.mx/?VQNN9e1FQVV+kX9ZIFRRsuhoD1tlyA0tda8zy9r6vgIZPpLsmSX8ocnM9WZ8P0bfidPnbtjob23fMG8NhvbieU+QmA+40tVU'
    
-   $.mobile.changePage('#scanResult') 
+   //$.mobile.changePage('#scanResult') 
 
    setTimeout(function () {
        scanStart();
