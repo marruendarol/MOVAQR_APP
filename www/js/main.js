@@ -29,9 +29,9 @@ function initApp(){
     $(document).on("pageshow","#scanHistory", function() {
        showHistory();
     })
-    //resString = 'http://www.fabrenet.net/?U2FsdGVkX1/f7D4Y2JRHm1NY07jn3iy0VN7Xz7Zo9LbVubVpUr071Fv2xd7a5i2PAmxFIBw+EYGoQ4Qo5CjnrA=='
+    resString = 'http://semadet.jalisco.gob.mx/?VQNN9e1FQVV+kX9ZIFRRsuhoD1tlyA0tda8zy9r6vgIZPpLsmSX8ocnM9WZ8P0bfidPnbtjob23fMG8NhvbieU+QmA+40tVU'
    
-   //$.mobile.changePage('#scanResult') 
+   $.mobile.changePage('#scanResult') 
 
    setTimeout(function () {
        scanStart();
@@ -120,9 +120,9 @@ function showResultsScreen(){
        $.mobile.changePage('#home') 
 
     }else{
-         $('#url').text(cutURL);
+         $('#url').append('<a target="_blank" href="'+ cutURL +'">'+ cutURL +'</a>');
         $('#folio').text(exp[1] + " " + exp[2]);
-        $('#format').append('<a target="_blank" href="'+ exp[3] +'">'+ exp[3] +'</a>');
+        $('#format').append(exp[3]);
         $('#entidad').text(exp[4]);
         $('#emision').text(exp[5]);
 
