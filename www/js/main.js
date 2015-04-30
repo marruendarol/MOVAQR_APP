@@ -122,7 +122,7 @@ function showResultsScreen(){
     }else{
          $('#url').text(cutURL);
         $('#folio').text(exp[1] + " " + exp[2]);
-        $('#format').text(exp[3]);
+        $('#format').append('<a href="'+ exp[3] +'">'+ exp[3] +'</a>');
         $('#entidad').text(exp[4]);
         $('#emision').text(exp[5]);
 
