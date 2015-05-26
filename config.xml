@@ -27,7 +27,7 @@
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
-    <icon src="img/logo_icatech.png"/>
+    <icon src="logo_icatech.png"/>
     <access origin="*" />
 </widget>
 
