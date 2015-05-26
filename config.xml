@@ -2,7 +2,7 @@
 <widget id="com.phonegap.movaqrapp" version="1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>ICATCDMX</name>
     <description>
-        ICATECH QR.
+        ICATCDMX QR.
     </description>
     <author email="support@fabrenet.com" href="http://fabrenet.net">
         fabrenet.net
