@@ -93,7 +93,7 @@ function showResultsScreen(){
   // DEcrypt
 
   if(!cancelled){
-     var frase = "X45RTY715";
+     var frase = "X45RTY716";
 
     var cutURL = String(resString.slice(0,resString.indexOf("?")))
 
