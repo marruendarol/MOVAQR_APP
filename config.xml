@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.movaqrapp" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>SEPAF</name>
+    <name>INADET</name>
     <description>
-        SEPAF
+        INADET
     </description>
     <author email="support@fabrenet.com" href="http://fabrenet.net">
         fabrenet.net
@@ -27,7 +27,7 @@
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
-    <icon src="logo_sepaf.png"/>
+    <icon src="logo_inadet.png"/>
     <access origin="*" />
 </widget>
 
