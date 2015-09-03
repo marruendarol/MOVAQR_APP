@@ -27,7 +27,7 @@
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
-    <icon src="logo_cobaez.png"/>
+    <icon src="logo_sepaf.png"/>
     <access origin="*" />
 </widget>
 
