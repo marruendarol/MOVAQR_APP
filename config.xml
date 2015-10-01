@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.movaqrapp" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>IDEFT</name>
+    <name>ICATEN</name>
     <description>
-        IDEFT
+        ICATEN
     </description>
     <author email="support@fabrenet.com" href="http://fabrenet.net">
         fabrenet.net
@@ -28,7 +28,7 @@
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
 
-    <icon src="logo_ideft.png"/>
+    <icon src="logo_icaten.png"/>
 
     <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="www/res/screen/android/screen-ldpi-portrait.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="www/res/screen/android/screen-mdpi-portrait.png" />
