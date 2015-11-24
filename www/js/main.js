@@ -94,7 +94,7 @@ function showResultsScreen(){
 
   if(!cancelled){
 
-     var frase = "X45RTY721";
+     var frase = "X45RTY723";
 
 
     var cutURL = String(resString.slice(0,resString.indexOf("?")))
@@ -122,7 +122,7 @@ function showResultsScreen(){
        $.mobile.changePage('#home') 
 
     }else{
-         $('#url').append('<a target="_blank" href="'+ cutURL +'">'+ cutURL +'</a>');
+        $('#url').append('<a target="_blank" href="'+ cutURL +'">'+ cutURL +'</a>');
         $('#folio').text(exp[1] + " " + exp[2]);
         $('#format').append(exp[3]);
         $('#entidad').text(exp[4]);
