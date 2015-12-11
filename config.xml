@@ -30,7 +30,7 @@
      <gap:plugin name="cordova-plugin-whitelist" source="npm" version="1.0.0" />
 
 
-    <icon src="logo_icatrq.png"/>
+    <icon src="logo_icatqr.png.png"/>
 
     <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="www/res/screen/android/screen-ldpi-portrait.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="www/res/screen/android/screen-mdpi-portrait.png" />
