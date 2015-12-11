@@ -94,7 +94,7 @@ function showResultsScreen(){
 
   if(!cancelled){
 
-     var frase = "X45RTY724";
+     var frase = "X45RTY725";
 
 
     var cutURL = String(resString.slice(0,resString.indexOf("?")))
