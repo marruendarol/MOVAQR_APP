@@ -1,6 +1,6 @@
 <?xml version='1.2' encoding='utf-8'?>
 <widget id="com.phonegap.movaqrapp" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>ICATEY</name>
+    <name>SEMADET</name>
     <description>
         Codes ICATEY
     </description>
@@ -30,7 +30,7 @@
      <gap:plugin name="cordova-plugin-whitelist" source="npm" version="1.0.0" />
 
 
-    <icon src="logo_icatey.png"/>
+    <icon src="logo_semadet.png"/>
 
     <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="www/res/screen/android/screen-ldpi-portrait.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="www/res/screen/android/screen-mdpi-portrait.png" />
