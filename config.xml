@@ -1,8 +1,8 @@
 <?xml version='1.2' encoding='utf-8'?>
-<widget id="com.phonegap.movaqrapp" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>SEMADET</name>
+<widget id="com.phonegap.movaqrapp" version="1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>CDMX Hologramas</name>
     <description>
-        Codes ICATEY
+        CDMX Hologramas
     </description>
     <author email="support@fabrenet.com" href="http://fabrenet.net">
         fabrenet.net
@@ -30,7 +30,7 @@
      <gap:plugin name="cordova-plugin-whitelist" source="npm" version="1.0.0" />
 
 
-    <icon src="logo_semadet.png"/>
+    <icon src="logo_cdmxh.png"/>
 
     <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="www/res/screen/android/screen-ldpi-portrait.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="www/res/screen/android/screen-mdpi-portrait.png" />
@@ -45,7 +45,6 @@
     <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
 
     <access origin="*" />
-     <allow-navigation href="http://icatey.mx/*" />
     <allow-navigation href="http://*/*" />
     <allow-navigation href="https://*/*" />
     <allow-navigation href="data:*" />
